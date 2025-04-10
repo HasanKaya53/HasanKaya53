@@ -3,16 +3,19 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/hasan-kaya-093661182" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/hasan-kaya-093661182" target="_blank" title="LinkedIn">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn" />
   </a>
-  <a href="_.hasankaya" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  &nbsp;&nbsp;
+  <a href="https://instagram.com/_.hasankaya" target="_blank" title="Instagram">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="40" height="40" alt="Instagram" />
   </a>
-  <a href="https://tryhackme.com/p/HasanKaya" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/tryhackme/default.svg" width="52" height="40" alt="tryhackme logo"  />
+  &nbsp;&nbsp;
+  <a href="https://tryhackme.com/p/HasanKaya" target="_blank" title="TryHackMe">
+    <img src="https://raw.githubusercontent.com/techwithanirudh/techwithanirudh/main/assets/tryhackme-icon.png" width="40" height="40" alt="TryHackMe" />
   </a>
 </div>
+
 
 ###
 
@@ -48,12 +51,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=hasankaya53&theme=default" alt="Layout with last medium posts"  />
 </div>
 
 ### 📝 Latest Articles
