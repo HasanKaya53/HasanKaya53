@@ -58,14 +58,5 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hasankaya53/hasankaya53/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hasankaya53/hasankaya53/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/hasankaya53/hasankaya53/output/pacman-contribution-graph.svg">
-</picture>
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3979588" style='border:none;'></iframe>
 
-###
-
-<img align="right" src="https://profile-counter.glitch.me/hasankaya53/count.svg?"  />
-
-###
