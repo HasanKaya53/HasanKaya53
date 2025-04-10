@@ -1,4 +1,5 @@
-<h1 align="left">💫 Hasan Kaya | Cybersecurity Learner & Software Developer</h1>
+<h1 align="left">💫 Hasan Kaya </h1>
+<h4 align="left">Cybersecurity Learner & Software Developer</h4>
 
 ###
 
