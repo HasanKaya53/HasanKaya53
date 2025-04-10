@@ -56,6 +56,13 @@
   <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=hasankaya53&theme=default" alt="Layout with last medium posts"  />
 </div>
 
+### 📝 Latest Articles
+
+- [🚀 Laravel & Docker: Accelerated Development Guide](https://medium.com/@hasankaya53/laravel-docker-accelerated-development-guide-79df7aa5ab96)
+- [🤔 Which PHP Framework Should You Choose?](https://medium.com/@hasankaya53/which-php-framework-should-you-choose-55d8a6e1d15a)
+- [📊 SQL Performance Optimization: Efficient Queries with Database Partitioning](https://blog.stackademic.com/sql-performance-optimization-efficient-queries-with-database-partitioning-e4af5872164f)
+
+
 ###
 
 ![Hasan Kaya](https://tryhackme-badges.s3.amazonaws.com/HasanKaya.png)
