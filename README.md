@@ -12,7 +12,7 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://tryhackme.com/p/HasanKaya" target="_blank" title="TryHackMe">
-    <img src="https://raw.githubusercontent.com/techwithanirudh/techwithanirudh/main/assets/tryhackme-icon.png" width="40" height="40" alt="TryHackMe" />
+    <img src="https://assets.tryhackme.com/img/logo/tryhackme_logo_full.svg" width="40" height="40" alt="TryHackMe" />
   </a>
 </div>
 
