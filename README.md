@@ -58,5 +58,6 @@
 
 ###
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3979588" style='border:none;'></iframe>
+[![TryHackMe Profile](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3979588)](https://tryhackme.com/p/yourusername)
+
 
